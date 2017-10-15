@@ -11,6 +11,8 @@ public class Offer12 {
 	
 	public static void main(String[] args) {
 		
+		double temp = Power(2,10);
+		System.out.println("=="+temp);
 	}
 	
 	/**
